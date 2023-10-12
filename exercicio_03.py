@@ -1,0 +1,5 @@
+def contagem():
+    for n in range(10, -1, -1):
+        print(n)
+
+contagem()
